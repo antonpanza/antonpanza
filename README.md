@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anton Panza</h1>
 <h3 align="center">A passionate frontend developer from Moldova</h3>
 
-- 👨‍💻 All of my projects are available at [https://antonpanza.com/cv](antonpanza.com/cv)
+- 👨‍💻 All of my projects are available at [antonpanza.com/cv](https://antonpanza.com/cv)
 
-- 📝 I regularly write articles on [https://antonpanza.com](antonpanza.com)
+- 📝 I regularly write articles on [antonpanza.com](https://antonpanza.com)
 
 - 💬 Ask me about **react, vue, nextjs**
 
