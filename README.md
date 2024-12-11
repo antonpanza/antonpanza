@@ -50,8 +50,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" />
   </a>
 </p>
-
-<h3 align="left">GitHub Activity:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonpanza&theme=radical" alt="GitHub Streak" />
-</p>
