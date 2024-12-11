@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anton Panza</h1>
 <h3 align="center">Frontend Developer | Passionate about Building Intuitive User Interfaces</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonpanza&show_icons=true&theme=radical" alt="Anton Panza's GitHub stats" />
-</p>
 
 - 👨‍💻 Explore my portfolio at [antonpanza.com](https://antonpanza.com)
 
